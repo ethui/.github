@@ -1,5 +1,5 @@
 <h1 align="center">
-  EthUI
+  ethui (formerly Iron Wallet)
 </h1>
 
 <p align="center">
