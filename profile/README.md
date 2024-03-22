@@ -6,7 +6,7 @@
   An Ethereum toolkit
 <p>
 
-![banner](https://raw.githubusercontent.com/ethui/.github/main/profile/banner.png)
+![banner](https://raw.githubusercontent.com/ethui/.github/main/banner/github.png)
 
 <div align="center">
   <a href="https://github.com/ethui/ethui"><b>Source</b></a> –
